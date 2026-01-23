@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1, 
+    "title": "Competent Audit Team:",
+    "text": "Compliance audit team consists of competent auditors having required certifications",
+    "icon": "icon_group" 
+  },
+  {
+    "id": 2, 
+    "title": "Highly Experienced Management Consultants:",
+    "text": "Help businesses improve their performance and finding new and better ways of doing things.",
+    "icon": "icon_easel"  
+  },
+  {
+    "id": 3, 
+    "title": "Highly Skilled Trainers:",
+    "text": "18,000+ employees and 400+ factories were trained by our skilled trainers",
+    "icon": "icon_piechart" 
+  },
+  {
+    "id": 4, 
+    "title": "Legal Advisors:",
+    "text": "Any legal support in terms of Labor Law, company law, Environmental Law, and Income Tax",
+    "icon": "icon_datareport" 
+  },
+  {
+    "id": 5,
+    "title": "24/7- Technical Support:",
+    "text": "24/7 help line is active to provide support to stakeholder",
+    "icon": "icon_datareport"
+  }
+]

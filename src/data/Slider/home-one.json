@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1, 
+    "title": "<span>Audit and verification</span>",
+    "description": "NBM International Ltd. helps organizations to stay in compliance with frequently changing global and local laws and regulations.",
+    "bg": "slider1.jpg",
+    "btnText": "Get A Quote",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2,
+    "title": "<span>Management System Certification</span>",
+    "description": "A management system certification refers to the process of assessing and verifying that an organization's management system meets specific standards and requirements. Management systems. ",
+    "bg": "slider2.jpg",
+    "btnText": "Get A Quote",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 3,
+    "title": "<span> Sustainability Reporting</span>",
+    "description": "Sustainability refers to the concept of meeting the needs of the present without compromising the ability of future generations to meet their own needs. It involves finding a balance between economic, social, and environmental. ",
+    "bg": "slider3.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 4,
+    "title": "<span>Sustainability is future </span>",
+    "description": "Sustainability refers to the ability to meet the needs of the present without compromising the ability of future generations to meet their own needs.",
+    "bg": "slider4.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }
+ 
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": 8, 
+    "title": "ESG Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ", 
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_easel",
+    "thumb": "service_1.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg"
+  },
+  {
+    "id": 9, 
+    "title": "ESCA-Social Complinace",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_piechart",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg"
+  },
+  {
+    "id": 10, 
+    "title": "ESCA-Environmental Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_datareport",
+    "thumb": "service_3.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg"
+  },
+  {
+    "id": 11, 
+    "title": "ESCA-Security Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_piechart",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  },
+  {
+    "id": 12, 
+    "title": "ESCA-Technical Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_lightbulb",
+    "thumb": "service_1.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  },
+  {
+    "id": 13, 
+    "title": "Client COC",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_easel",
+    "thumb": "service_3.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg"
+  },
+  {
+    "id": 14, 
+    "title": "Certification Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_house",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  },
+  {
+    "id": 15, 
+    "title": "Incident Investigation",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_house",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  },
+  {
+    "id": 16, 
+    "title": "Traceibility Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_house",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  },
+  {
+    "id": 17, 
+    "title": "Organic Assessment",
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas amet sed at... ",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu . </p> <p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu Lorem ipsum dolor sit amet,in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu elit Lorem ipsum dolor</p><p>sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "icon": "icon_house",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg"
+  }
+
+]

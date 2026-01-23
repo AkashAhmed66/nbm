@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "About Us",
+    "link": "/about-ecotec",
+    "subMenu": [
+      {
+        "title": "NBM International Ltd.",
+        "link": "/about-ecotec"
+      },
+      {
+        "title": "Quality & Integrity",
+        "link": "/quality-integrity"
+      },
+      {
+        "title": "Who we work with",
+        "link": "/who-we-work-with"
+      }
+    ]
+  },
+
+
+  {
+    "id": 3,
+    "title": "Services",
+    "link": "/service",
+    "subMenu": [
+      {
+        "id": 3.1,
+        "title": "Assessment",
+        "link": "#",
+        "subMenuLevel2": [
+          {
+            "id": 1,
+            "title": "Environmental",
+            "link": "/service/environmental?id=1"
+          },
+          {
+            "id": 2,
+            "title": "Social",
+            "link": "/service/social?id=8"
+          },
+          {
+            "id": 3,
+            "title": "Governance",
+            "link": "/service/governance?id=18"
+          }
+        ]
+      },
+      {
+        "id": 3.2,
+        "title": "Advisory",
+        "link": "#",
+        "subMenuLevel2": [
+          {		
+            "id": 1,
+            "title": "ESG",
+            "link": "/service/ESG?id=23"
+          },
+          {
+            "id": 2,
+            "title": "Program",
+            "link": "/service/program?id=28"
+          },
+          {
+            "id": 3,
+            "title": "Other Services",
+            "link": "/service/other-services?id=35"
+          }
+        ]
+      },
+      {
+        "id": 3.3,
+        "title": "Tax and Legal",
+        "link": "#",
+        "subMenuLevel2": [
+          {				
+            "id": 1,
+            "title": "Tax & VAT",
+            "link": "/service/tax-vat?id=7"
+          },
+          {
+            "id": 2,
+            "title": "Legal",
+            "link": "/service/legal?id=8"
+          },
+          {
+            "id": 3,
+            "title": "Accouting",
+            "link": "/service/accouting?id=9"
+          }
+        ]
+      },
+      {
+        "id": 3.4,
+        "title": "Wealth Management",
+        "link": "#",
+        "subMenuLevel2": [
+          {					
+            "id": 1,
+            "title": "Individual",
+            "link": "/service/individual?id=10"
+          },
+          {
+            "id": 2,
+            "title": "Institute",
+            "link": "/service/institute?id=11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Trainings",
+    "link": "#",
+    "subMenu": [
+      {
+        "title": "Trainings",
+        "link": "/NotFound"
+      },
+      {
+        "title": "Traning Schedule",
+        "link": "/NotFound"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Certificate Check",
+    "link": "/certificate-check"
+  },
+  {
+    "id": 7,
+    "title": "Contact",
+    "link": "/contact"
+  },
+  {
+    "id": 8,
+    "title": "Sustainability",
+    "link": "/sustainability"
+  }
+]

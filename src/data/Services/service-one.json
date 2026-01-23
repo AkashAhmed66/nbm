@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1, 
+    "title": "Audit and verification",
+    "shortDesc": "Auditing and verification are two distinct processes used in various fields, including, compliance, and quality control, to ensure accuracy, reliability, and compliance with established standards or regulations..... ", 
+    "description": "Auditing and verification are two distinct processes used in various fields, including, compliance, and quality control, to ensure accuracy, reliability, and compliance with established standards or regulations.",
+    "icon": "icon_easel",
+    "thumb": "service_1.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg",
+    "link": "/service/service/service/service/details?id=76"
+  },
+  {
+    "id": 2, 
+    "title": "Management system certification",
+    "shortDesc": "Management system certification is a process by which an organization's management systems and practices are evaluated and certified against specific standards. ... ",
+    "description": "Management system certification is a process by which an organization's management systems and practices are evaluated and certified against specific standards. These standards provide a framework for achieving and demonstrating excellence in various areas, including quality, environmental responsibility, information security, and occupational health and safety.",
+    "icon": "icon_piechart",
+    "thumb": "service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg",
+    "link": "/service/details?id=90"
+  },
+  {
+    "id": 3, 
+    "title": "Sustainability reporting",
+    "shortDesc": "Sustainability reporting, also known as corporate sustainability reporting or sustainability... ",
+    "description": "Sustainability reporting, also known as corporate sustainability reporting or sustainability disclosure, is the process of measuring, disclosing, and communicating an organization's economic, environmental, social, and governance (ESG) performance and impacts.",
+    "icon": "icon_datareport",
+    "thumb": "service_3.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_1.jpg",
+    "link": "/service/service/service/details?id=85"
+  },
+  {
+    "id": 4, 
+    "title": "Training",
+    "shortDesc": "Training and capacity building are essential processes within organizations, institutions, and communities to enhance the skills, knowledge... ",
+    "description": "Training and capacity building are essential processes within organizations, institutions, and communities to enhance the skills, knowledge, and abilities of individuals or groups. These processes help them perform their roles more effectively, adapt to changes, and contribute to achieving their goals.",
+    "icon": "icon_piechart",
+    "thumb": "service_4.jpg",
+    "btnText": "Read More",
+    "singleThumb": "blog_2.jpg",
+    "link": "/service/service/details?id=87"
+  }
+
+]
