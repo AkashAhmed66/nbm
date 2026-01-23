@@ -33,7 +33,7 @@ const Brochure = () => {
                     type="application/pdf"
                     title="NBM International Brochure"
                     width="100%"
-                    height="800"
+                    height="1200"
                     style={{
                       border: "1px solid #ddd",
                       borderRadius: "8px",
