@@ -40,7 +40,7 @@ export default function SingleReport(props) {
                       <div className="service_list">
                           <div className="report_img"> 
                               <a target="blank" href={report.link}>
-                                  <img className="sust_img" href={report.link} src={('https://portal.ecotecglobal.net/public/' + report.thumb)} alt="report" />
+                                  <img className="sust_img" href={report.link} src={('https://portal.nbm-intl.com/' + report.thumb)} alt="report" />
                               </a>
                           </div>   
                           <div className="service_para">

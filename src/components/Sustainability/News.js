@@ -61,7 +61,7 @@ export default function News() {
                                 <div className="service_list">
                                     <div className="report_img"> 
                                         <a target="blank" href={news.link}>
-                                            <img className="sust_img" href={news.link} src={('https://portal.ecotecglobal.net/public/' + news.thumb)} alt="news" />
+                                            <img className="sust_img" href={news.link} src={('https://portal.nbm-intl.com/' + news.thumb)} alt="news" />
                                         </a>
                                     </div>   
                                     <div className="service_para">
