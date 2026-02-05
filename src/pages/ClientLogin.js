@@ -26,7 +26,7 @@ const ContactPage = () => {
         }
     }
     //certificates/ISO Certificate 100005.pdf
-    const certificateUrl = "https://portal.nbm-intl.com/storage/app/public/certificates/" + certificateType + " " + certificateNumber + ".pdf" 
+    const certificateUrl = "https://portal.nbm-intl.com/storage/certificates/" + certificateType + " " + certificateNumber + ".pdf" 
     console.log("🚀 ~ file: ClientLogin.js:29 ~ ContactPage ~ certificateUrl:", certificateUrl)
 
 

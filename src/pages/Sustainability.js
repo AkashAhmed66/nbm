@@ -8,7 +8,7 @@ export default function Sustainability() {
     return (
         <Fragment>
           <MetaTags>
-            <title>ECOTEC | Sustainability</title>
+            <title>NBM International Ltd. | Sustainability</title>
             <meta
               name="description"
               content="Global business"
