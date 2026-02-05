@@ -47,7 +47,7 @@ const RelatedServices = ({serviceList}) => {
                             <div className="service_list">
                                 <div className="service_img"> 
                                     <Link to={`${process.env.PUBLIC_URL + `/service/${service.title.split(' ').join('-').toLowerCase()}?id=${service.id} `}`}>
-                                        <img className={serviceList.length <= 1?"service_img_thumb2":"service_img_thumb1"} src={('https://portal.nbm-intl.com/public/' + service.thumb)} alt="service" />
+                                        <img className={serviceList.length <= 1?"service_img_thumb2":"service_img_thumb1"} src={('https://portal.nbm-intl.com/' + service.thumb)} alt="service" />
                                     </Link>
                                 </div>   
                                 <div className="service_para">

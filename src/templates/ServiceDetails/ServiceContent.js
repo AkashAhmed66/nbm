@@ -13,7 +13,7 @@ const ServiceContentWrap = ({service, serviceList}) => {
         <Fragment>
 
             <div className="col-md-9 col-sm-12 single_service_page_content"> 
-            <img src={('https://portal.nbm-intl.com/public/' + service.singleThumb)} alt="service" />
+            <img src={('https://portal.nbm-intl.com/' + service.singleThumb)} alt="service" />
                 <div className="single_service_title">
                     <h3>{service.title}</h3> 
                     {<div dangerouslySetInnerHTML={{__html: service.description}}/>}
